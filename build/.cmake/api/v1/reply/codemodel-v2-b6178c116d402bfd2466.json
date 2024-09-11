@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "casadi_codegen_example",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "casadi_codegen_example_CASADI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-casadi_codegen_example_CASADI-Release-79329dc911e6ac23de1e.json",
+					"name" : "casadi_codegen_example_CASADI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "casadi_codegen_example_DL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-casadi_codegen_example_DL-Release-8a49e605be89ec5199e6.json",
+					"name" : "casadi_codegen_example_DL",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/robot/robot_ws/casadi_codegen_example/build",
+		"source" : "/home/robot/robot_ws/casadi_codegen_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

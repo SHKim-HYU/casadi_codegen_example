@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/robot/robot_ws/casadi_codegen_example/build",
+  "command": "/usr/bin/g++  -DCASADI_RESOURCE_PATH=\\\"/home/robot/robot_ws/casadi_codegen_example/lib/\\\" -I/home/robot/robot_ws/casadi_codegen_example/bin/inc -I/opt/casadi/include -I/opt/casadi/include/casadi -isystem /usr/include/eigen3   -std=c++17 -Wall -Wextra -fPIC -O2 -DNDEBUG   -std=c++17 -o CMakeFiles/casadi_codegen_example_CASADI.dir/src/casadifunction.cpp.o -c /home/robot/robot_ws/casadi_codegen_example/src/casadifunction.cpp",
+  "file": "/home/robot/robot_ws/casadi_codegen_example/src/casadifunction.cpp"
+},
+{
+  "directory": "/home/robot/robot_ws/casadi_codegen_example/build",
+  "command": "/usr/bin/g++  -DCASADI_RESOURCE_PATH=\\\"/home/robot/robot_ws/casadi_codegen_example/lib/\\\" -I/home/robot/robot_ws/casadi_codegen_example/bin/inc -isystem /usr/include/eigen3   -std=c++17 -Wall -Wextra -fPIC -O2 -DNDEBUG   -std=c++17 -o CMakeFiles/casadi_codegen_example_DL.dir/src/CasadiCodegen_ex.cpp.o -c /home/robot/robot_ws/casadi_codegen_example/src/CasadiCodegen_ex.cpp",
+  "file": "/home/robot/robot_ws/casadi_codegen_example/src/CasadiCodegen_ex.cpp"
+}
+]

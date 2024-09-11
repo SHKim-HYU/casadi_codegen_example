@@ -1,0 +1,1 @@
+gcc -fPIC -shared -O3 GravOpt_Wrench.c -o GravOpt_Wrench.so

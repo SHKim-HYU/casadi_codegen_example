@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++17 -Wall -Wextra -fPIC -O2 -DNDEBUG   CMakeFiles/casadi_codegen_example_CASADI.dir/src/casadifunction.cpp.o  -o casadi_codegen_example_CASADI  -Wl,-rpath,/opt/casadi/lib /opt/casadi/lib/libcasadi.so -ldl 
